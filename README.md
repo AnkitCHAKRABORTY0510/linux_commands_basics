@@ -33,13 +33,6 @@ File Management
 
 The commands under this section are very basic commands and must be known to every system administrator. This is definitely not the complete list of Linux commands for file management but can give you a kickstart and can cover most of the basic to complex scenarios.
 
-Recommended Read:![](Aspose.Words.783a1b43-fb78-493d-849c-0d9a178e50bc.004.png)
-
-Linux copy directory and contents from remote to local & vice versa 5 commands to copy file from one server to another in Linux or Unix How to transfer files over SSH with SSHFS in Linux & Windows Securely transfer files between two hosts using HTTPS in Linux
-
-10+ practical examples to create symbolic link in Linux
-
-
 
 <table><tr><th colspan="1">Command</th><th colspan="1">Example/Syntax</th><th colspan="1">Comments</th><th colspan="1">For more details</th></tr>
 <tr><td colspan="1" rowspan="4">ls</td><td colspan="1"># ls</td><td colspan="1">List files</td><td colspan="1" rowspan="4">man page for ls</td></tr>
@@ -360,3 +353,4 @@ Conclusion
 In this cheat sheet  I have tried to consolidate most used Linux commands by different types of experts across IT domains. I am yet to add commands for many other scenarios such as Managing Linux services, archiving, firewall etc but that would just make this tutorial infinite long. So that I know people are reading and loving this cheat sheet then I may decide to spend some more time to write about the remaining Linux commands.
 
 
+[view this file in HTML](https://ankitchakraborty0510.github.io/linux_commands_basics/)
